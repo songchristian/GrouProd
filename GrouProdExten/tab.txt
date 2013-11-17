@@ -1,0 +1,5 @@
+{
+	var arr1 = new Array();
+	arr1 = chrome.tabs.query();
+	
+}
